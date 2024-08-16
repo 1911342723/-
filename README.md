@@ -17,3 +17,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/47255dc0-3649-4669-afb0-25566f570cb8)
+
+
+
+要使用本项目，要先更改上传图片后的转储路径
+点击application.yml文件，更改path后面的内容，改为想要存储上传图片的路径
+![image](https://github.com/user-attachments/assets/9c0cacb2-03e8-403e-b4f4-a1d950cf9ed4)

@@ -38,6 +38,9 @@
 
 
 最后更改application.yul里的Redis的配置
+
+
+
 ![image](https://github.com/user-attachments/assets/198b334a-fcfd-4401-9427-b8d524288183)
 
 

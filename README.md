@@ -1,8 +1,25 @@
-@@ -20,6 +20,18 @@
+使用Springboot + Mybatis-plus + Spring制作的点餐管理系统
+分为客户端和管理端
+客户端可以进行点餐
+管理端为商家对商品进行管理
+
+客户端相关截图如下
 
 
 
-要使用本项目，要先更改上传图片后的转储路径
+![image](https://github.com/user-attachments/assets/283a5482-b71e-4bc9-802c-d529aa227351)
+
+
+服务端相关截图如下
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/47255dc0-3649-4669-afb0-25566f570cb8)
+
+
+
 要使用本项目，请先完成数据库的创建，数据库创建的sql脚本已经上传为db.sql
 
 然后打开application.yml进行数据库的配置
